@@ -18,7 +18,7 @@ Explore muchos algoritmos y modelos:
 -	Modelos populares: Train / Test Split Root Mean Squared Error y Bosques aleatorios.
 ¡Prepárate para aprender más que tu máquina!
 
-Contenido del curso:
+##Contenido del curso:
 
 **Module 1 - Supervised vs Unsupervised Learning**
 
