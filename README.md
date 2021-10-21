@@ -29,32 +29,32 @@ Explore muchos algoritmos y modelos:
 
 **Module 2 - Supervised Learning I**
 
-•	K-Nearest Neighbors 
-•	Decision Trees 
-•	Random Forests
-•	Reliability of Random Forests 
-•	Advantages & Disadvantages of Decision Trees 
+-	K-Nearest Neighbors 
+-	Decision Trees 
+-	Random Forests
+-	Reliability of Random Forests 
+-	Advantages & Disadvantages of Decision Trees 
 
  **Module 3 - Supervised Learning II**
  
-•	Regression Algorithms 
-•	Model Evaluation 
-•	Model Evaluation: Overfitting & Underfitting
-•	Understanding Different Evaluation Models 
+-	Regression Algorithms 
+-	Model Evaluation 
+- Model Evaluation: Overfitting & Underfitting
+- Understanding Different Evaluation Models 
 
  **Module 4 - Unsupervised Learning**
  
-•	K-Means Clustering plus Advantages & Disadvantages 
-•	Hierarchical Clustering plus Advantages & Disadvantages 
-•	Measuring the Distances Between Clusters - Single Linkage Clustering 
-•	Measuring the Distances Between Clusters - Algorithms for Hierarchy Clustering
-•	Density-Based Clustering 
+-	K-Means Clustering plus Advantages & Disadvantages 
+-	Hierarchical Clustering plus Advantages & Disadvantages 
+-	Measuring the Distances Between Clusters - Single Linkage Clustering 
+-	Measuring the Distances Between Clusters - Algorithms for Hierarchy Clustering
+-	Density-Based Clustering 
 
 
 **Module 5 - Dimensionality Reduction & Collaborative Filtering**
 
-•	Dimensionality Reduction: Feature Extraction & Selection 
-•	Collaborative Filtering & Its Challenges 
+-	Dimensionality Reduction: Feature Extraction & Selection 
+-	Collaborative Filtering & Its Challenges 
 
 
 
