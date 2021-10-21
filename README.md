@@ -4,8 +4,7 @@ Curso Machine Learning con Python de IBM Cognitive Class
 
 Este curso es de IBM y el Link de acceso al curso:
 
-
-https://cognitiveclass.ai/courses/machine-learning-with-pythonAcerca :
+https://cognitiveclass.ai/courses/machine-learning-with-pythonAcerca 
 
 
 Este curso de aprendizaje automático con Python se sumerge en los conceptos básicos del aprendizaje automático mediante un lenguaje de programación accesible y conocido. Aprenderá sobre el aprendizaje supervisado y no supervisado, verá cómo se relaciona el modelado estadístico con el aprendizaje automático y hará una comparación de cada uno.
