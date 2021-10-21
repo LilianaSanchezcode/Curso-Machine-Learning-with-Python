@@ -21,7 +21,7 @@ Contenido del curso:
 •	Supervised Learning Classification 
 •	Unsupervised Learning 
 
-Module 2 - Supervised Learning I
+**Module 2 - Supervised Learning I**
 
 •	K-Nearest Neighbors 
 •	Decision Trees 
@@ -29,14 +29,14 @@ Module 2 - Supervised Learning I
 •	Reliability of Random Forests 
 •	Advantages & Disadvantages of Decision Trees 
 
- Module 3 - Supervised Learning II
+ **Module 3 - Supervised Learning II**
  
 •	Regression Algorithms 
 •	Model Evaluation 
 •	Model Evaluation: Overfitting & Underfitting
 •	Understanding Different Evaluation Models 
 
- Module 4 - Unsupervised Learning
+ **Module 4 - Unsupervised Learning**
  
 •	K-Means Clustering plus Advantages & Disadvantages 
 •	Hierarchical Clustering plus Advantages & Disadvantages 
@@ -45,7 +45,8 @@ Module 2 - Supervised Learning I
 •	Density-Based Clustering 
 
 
-Module 5 - Dimensionality Reduction & Collaborative Filtering
+**Module 5 - Dimensionality Reduction & Collaborative Filtering**
+
 •	Dimensionality Reduction: Feature Extraction & Selection 
 •	Collaborative Filtering & Its Challenges 
 
