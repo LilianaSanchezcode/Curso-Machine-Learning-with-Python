@@ -22,10 +22,10 @@ Explore muchos algoritmos y modelos:
 
 **Module 1 - Supervised vs Unsupervised Learning**
 
--Machine Learning vs Statistical Modelling
--Supervised vs Unsupervised Learning 
--Supervised Learning Classification 
--Unsupervised Learning 
+- Machine Learning vs Statistical Modelling
+- Supervised vs Unsupervised Learning 
+- Supervised Learning Classification 
+- Unsupervised Learning 
 
 **Module 2 - Supervised Learning I**
 
